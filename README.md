@@ -1,0 +1,2 @@
+# spread
+Little evolutionary game

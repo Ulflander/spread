@@ -1,0 +1,16 @@
+#wrapper {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    overflow: auto;
+    width: 200px;
+    left: 50%;
+    margin-left: -100px;
+    padding-top: 100px;
+    text-align: center;
+}
+
+body {
+    color: #fafafa;
+    background: #333;
+}
